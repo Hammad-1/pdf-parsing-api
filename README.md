@@ -13,20 +13,21 @@ The application is designed to be easily extended and can be used to parse vario
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/PDF-Parsing-Api.git
-cd PDF-Parsing-Api
+git clone https://github.com/Hammad-1/pdf-parsing-api
+cd pdf-parsing-ap
+```
 
-### 2. Install all requirements
+### 2. Install Requirements
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 ### 3. Running app locally
 
 ```bash
 uvicorn main:app --reload
-
+```
 
 
 ### Example Curl Request
